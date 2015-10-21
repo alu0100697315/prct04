@@ -1,0 +1,5 @@
+LENGUAJES Y PARADIGMAS DE PROGRAMACION
+PRACTICA DE LABORATORIO #4
+
+¿Que es RVM?
+Aplicacion que nos permite gestinar varios entornos de interpretes de Ruby y conjuntos de gemas
