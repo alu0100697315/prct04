@@ -6,3 +6,6 @@ Aplicacion que nos permite gestinar varios entornos de interpretes de Ruby y con
 
 ¿Cual es la diferencia entre la ejecucion del programa con el interprete de Ruby y el interprete interactivo?
 En uno de ellos le pasas las sentencias directamente al interprete mientras que en el otro las sentencias van dentro de un fichero .rb que se le pasa al interprete.
+
+¿Cual es la diferenia entre la ejecucion del programa con el interprete de Ruby y con PRY?
+La diferencia es que PRY permite depurar codigo en ejecucion e inspeccionar los objetos a traves de la linea de comando.
