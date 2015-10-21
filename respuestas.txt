@@ -2,4 +2,7 @@ LENGUAJES Y PARADIGMAS DE PROGRAMACION
 PRACTICA DE LABORATORIO #4
 
 ¿Que es RVM?
-Aplicacion que nos permite gestinar varios entornos de interpretes de Ruby y conjuntos de gemas
+Aplicacion que nos permite gestinar varios entornos de interpretes de Ruby y conjuntos de gemas.
+
+¿Cual es la diferencia entre la ejecucion del programa con el interprete de Ruby y el interprete interactivo?
+En uno de ellos le pasas las sentencias directamente al interprete mientras que en el otro las sentencias van dentro de un fichero .rb que se le pasa al interprete.
